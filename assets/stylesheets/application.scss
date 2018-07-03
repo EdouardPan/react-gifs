@@ -24,6 +24,10 @@ body {
     }
   }
 
+  .highlight-search{
+    border:5px solid red;
+  }
+
   &:before {
     content: '\F002';
     position: absolute;
